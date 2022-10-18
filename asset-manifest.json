@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adi-pr/Web3.0-Mint-Site/static/css/main.76d57c44.css",
+    "main.js": "/adi-pr/Web3.0-Mint-Site/static/js/main.14205a96.js",
+    "static/media/background3.gif": "/adi-pr/Web3.0-Mint-Site/static/media/background3.46cd7d63422950a0957d.gif",
+    "index.html": "/adi-pr/Web3.0-Mint-Site/index.html",
+    "main.76d57c44.css.map": "/adi-pr/Web3.0-Mint-Site/static/css/main.76d57c44.css.map",
+    "main.14205a96.js.map": "/adi-pr/Web3.0-Mint-Site/static/js/main.14205a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d57c44.css",
+    "static/js/main.14205a96.js"
+  ]
+}
